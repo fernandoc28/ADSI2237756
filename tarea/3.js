@@ -11,4 +11,4 @@ function fecha (a) {
         console.log("La fecha es actual")
     }
 }
-fecha("April 29, 2022")
+fecha("April 28, 2022")
