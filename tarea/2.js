@@ -5,4 +5,4 @@ function precio (a,b){
     console.log(`Su valor a pagar es: ${precio}`)
 }
 
-precio(10000,50)
+precio(10,50)

@@ -8,11 +8,10 @@ function primo (a){
     }
 
     if (cont ==2){
-        console.log("el numero es primo")
+        console.log(`el numero ${a} es primo`)
     }else{
-        console.log("el numero no es primo")
+        console.log(`el numero ${a} no es primo`)
     }
-    
 }
 
 primo(2)

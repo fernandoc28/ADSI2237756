@@ -1,6 +1,5 @@
 function fecha (a) {
-   
-    var today = new Date("2022,04,29");
+    var today = new Date();
     var Xmas95 = new Date(a)
     console.log(today)
     if(today<Xmas95){
