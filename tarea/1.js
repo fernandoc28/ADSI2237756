@@ -14,4 +14,4 @@ function primo (a){
     }
 }
 
-primo(2)
+primo(100)

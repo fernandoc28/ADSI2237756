@@ -1,5 +1,5 @@
 function fecha (a) {
-    var today = new Date();
+    var today = new Date("2022 5 2");
     var Xmas95 = new Date(a)
     console.log(today)
     if(today<Xmas95){
@@ -10,4 +10,4 @@ function fecha (a) {
         console.log("La fecha es actual")
     }
 }
-fecha("2022 april 29")
+fecha("2022 5 2")
