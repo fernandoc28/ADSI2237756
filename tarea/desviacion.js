@@ -12,7 +12,6 @@ let dev=(arr)=>{
 
      let sum = arr.reduce((acc, curr)=> acc + curr, 0);
 
-     let variance = sum / arr.length
 
      return Math.sqrt(sum / arr.length)
 }
